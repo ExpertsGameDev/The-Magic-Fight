@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PIAPixelArtEditor" t="Include">
+          <e p="Editor" t="Include">
+            <e p="PIAAnimator.cs" t="Include" />
+            <e p="PIADrawer.cs" t="Include" />
+            <e p="PIAEditorWindow.cs" t="Include" />
+            <e p="PIAExportSettingsWindow.cs" t="Include" />
+            <e p="PIAExtendedPreviewWindow.cs" t="Include" />
+            <e p="PIAFrame.cs" t="Include" />
+            <e p="PIAGrid.cs" t="Include" />
+            <e p="PIAImageData.cs" t="Include" />
+            <e p="PIAInputArea.cs" t="Include" />
+            <e p="PIANewImageWindow.cs" t="Include" />
+            <e p="PIASession.cs" t="Include" />
+            <e p="PIATexture.cs" t="Include" />
+            <e p="PIATextureDatabase.cs" t="Include" />
+            <e p="WindowSection.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Inventory.cs" t="Include" />
+          <e p="PlayerCamera.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="RandomItem.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="The-Magic-Fight.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_The-Magic-Fight.-1311380606.00" t="ExcludeRecursive" />
+  </component>
+</project>
